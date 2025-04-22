@@ -82,7 +82,7 @@ header {
 }
 
 .prof-img {
-    width: 220px;
+    width: 200px;
     border-radius: 10px;
 }
 
@@ -106,8 +106,8 @@ header {
 }
 
 .work-item img {
-    width: 80%;
-    border-radius: 5px;
+    width: 100px;
+    border-radius: 2px;
 }
 
 .small-img {
@@ -120,7 +120,7 @@ header {
 }
 
 /* Responsiveness */
-@media (max-width: 768px) {
+@media (max-width: 400px) {
     .hero {
         flex-direction: column;
         text-align: center;
@@ -146,4 +146,25 @@ header {
 .tabel-img {
     width: 400px;
     border-radius: 5px;
+}
+.pdf-button {
+    text-align: left;
+    margin: 10px 0;
+}
+
+.btn-download {
+    background-color: #2609e5;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: normal;
+    transition: background-color 0.3s ease;
+    display: inline-block;
+}
+
+.btn-download:hover {
+    background-color: #1b07b3;
 }
