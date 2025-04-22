@@ -45,6 +45,7 @@ header {
 
 .highlight {
     color: #2609e5;
+    background: none !important;
 }
 
 .subtitle {
@@ -67,18 +68,12 @@ header {
     color: #2609e5;
 }
 
-.professor, .algorithm, .tables {
+.algorithm, .tables {
     background: #637771;
     padding: 20px;
     margin-top: 20px;
     border-radius: 10px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-}
-
-.prof-container {
-    display: flex;
-    align-items: center;
-    gap: 20px;
 }
 
 .prof-img {
