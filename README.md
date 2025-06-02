@@ -38,7 +38,7 @@
                     bidang grafika komputer,khususnya dalam pengembangan manusia virtual 
                     dan simulasi kerumunan.</p>
                 <section class="pdf-button">
-                <a href="Ari Fardila_2413025063_PPT Tokoh Grafika Komputer.pdf" target="_blank" class="btn-download">Laporan PDF</a>
+                <a href="Ari Fardila_2413025063_Tokoh Grafika Komputer.pdf" target="_blank" class="btn-download">Laporan PDF</a>
                 <a href="https://youtu.be/NEI-c6rpdL8?si=H4MdBr7v7zs7n-nn" target="_blank" class="btn-download">Video Materi</a>
                 </section>   
                 </div>
@@ -127,6 +127,55 @@
                 <section class="pdf-button">
                 <a href="Ari Fardila_2413025063_Kurva Bezier Cubic.pdf" target="_blank" class="btn-download">Laporan PDF</a>
                 <a href="https://youtu.be/sK6uyAscqWU?si=i8fFssNluQdQ7_Mi" target="_blank" class="btn-download">Video Materi</a>
+                </section>
+            </div>
+        </section>
+        <section class="tasks">
+            <h2>Kuis Grafika komputer:</h2>
+        </section>
+         <section class="algorithm">
+            <h3>1. Persamaan Misteri</h3>
+            <div class="algorithm-content">
+                <img src="Persamaan Misteri.png" alt="Persamaan Misteri" class="big-img">
+                <p>Persamaan (x² + y² – 1)³ = x² y³  menggambarkan bentuk hati yang terletak di tengah bidang koordinat (0,0). Dalam canvas computer bentuknya digeser ke tengah layar dan digambar berdasarkan konversi koordinat kartesius ke koordinat layar piksel.</p>
+                <section class="pdf-button">
+                <a href="Ari Fardila_2413025063_Kuis 1 Persamaan Misteri.pdf" target="_blank" class="btn-download">Laporan PDF</a>
+                </section>
+            </div>
+        </section>
+        <section class="algorithm">
+            <h3>2. Transformasi 2D</h3>
+            <div class="algorithm-content">
+                <img src="Geogebra.png" alt="Spreadsheet grid" class="big-img">
+                <p>Transformasi 2D digunakan dalam grafika komputer untuk memanipulasi objek.</p>
+                <section class="pdf-button">
+                <a href="Ari Fardila_2413025063_Kuis 2 transformasi 2D.pdf" target="_blank" class="btn-download">Laporan PDF</a>
+                <a href="https://youtu.be/0od5IiQAM8s?si=lZUeLGeaRrPBBPvD" target="_blank" class="btn-download">Video Materi</a>
+                <a href="https://docs.google.com/spreadsheets/d/1tmb2--ev_zDcJ7RAK-Rpcf62CkdNmhEVWY-d1U7iVvA/edit?usp=sharing" target="_blank" class="btn-download">Spreadsheet</a>
+                </section>
+            </div>
+        </section>
+        <section class="algorithm">
+            <h3>3. Line Clipping Algorithm</h3>
+            <div class="algorithm-content">
+                <img src="Line Clipping Algorithm.png" alt="Line Clipping Algorithm" class="big-img">
+                <p>Line clipping adalah proses memotong garis yang terletak di luar area tampilan(viewport)sehingga hanya bagian yang terlihat saja yang digambar.</p>
+                <section class="pdf-button">
+                <a href="Ari Fardila_2413025063_Kuis 3 Clipping Algorithm.pdf" target="_blank" class="btn-download">Laporan PDF</a>
+                <a href="https://youtu.be/ISvM0Bgf5Wc?si=J52G6knumpqoMVkt" target="_blank" class="btn-download">Video Materi</a>
+                <a href="https://docs.google.com/spreadsheets/d/12VBiNcMCchIq-1bZWDwDqoIVbD2Pus40eQvGZXQyUBM/edit?usp=sharing" target="_blank" class="btn-download">Spreadsheet</a>
+                </section>
+            </div>
+        </section>
+        <section class="algorithm">
+            <h3>4. Polygon Clipping Algorithm</h3>
+            <div class="algorithm-content">
+                <img src="Polygon.png" alt="Polygon Clipping Algorithm" class="big-img">
+                <p>Pemotongan poligon adalah proses menghilangkan bagian-bagian tertentu dari poligon yang berada di luar batas persegi panjang yang ditentukan.
+                    disebutnya viewport. Tujuannya adalah untuk hanya menampilkan bagian poligon yang berada di dalam jendela. Setiap bagian poligon yang berada di luar jendela akan dipotong, 
+                    memastikan bahwa poligon tersebut pas di dalam area tampilan.</p>
+                <section class="pdf-button">
+                <a href="https://youtu.be/gHNmtMh9JLE?si=tV58jSmyisUHWmzg" target="_blank" class="btn-download">Video Materi</a>
                 </section>
             </div>
         </section>
