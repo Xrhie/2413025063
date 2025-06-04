@@ -175,6 +175,7 @@
                     disebutnya viewport. Tujuannya adalah untuk hanya menampilkan bagian poligon yang berada di dalam jendela. Setiap bagian poligon yang berada di luar jendela akan dipotong, 
                     memastikan bahwa poligon tersebut pas di dalam area tampilan.</p>
                 <section class="pdf-button">
+                <a href="Ari Fardila_2413025063_Kuis 4 Polygon Clipping Algorithm.pdf" target="_blank" class="btn-download">Laporan PDF</a>
                 <a href="https://youtu.be/gHNmtMh9JLE?si=tV58jSmyisUHWmzg" target="_blank" class="btn-download">Video Materi</a>
                 </section>
             </div>
